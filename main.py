@@ -15,8 +15,14 @@
 # from aoc.day_09.main_b import main_b
 # from aoc.day_10.main_a import main_a
 # from aoc.day_10.main_b import main_b
-from aoc.day_11.main_a import main_a
-from aoc.day_11.main_b import main_b
+# from aoc.day_11.main_a import main_a
+# from aoc.day_11.main_b import main_b
+# from aoc.day_12.main_a import main_a
+# from aoc.day_12.main_b import main_b
+# from aoc.day_13.main_a import main_a
+# from aoc.day_13.main_b import main_b
+from aoc.day_14.main_a import main_a
+from aoc.day_14.main_b import main_b
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
@@ -69,6 +75,18 @@ if __name__ == '__main__':
     #     main_b(f)
     # with open('input/11/main', 'rb') as f:
     #     main_a(f)
-    with open('input/11/main', 'rb') as f:
-        main_b(f)
+    # with open('input/11/main', 'rb') as f:
+    #     main_b(f)
+    # with open('input/12/main', 'rb') as f:
+    #     main_a(f)
+    # with open('input/12/main', 'rb') as f:
+    #     main_b(f)
+    # with open('input/13/main', 'rb') as f:
+    #     main_a(f)
+    # with open('input/13/main', 'rb') as f:
+    #     main_b(f)
+    with open('input/14/sample', 'rb') as f:
+        main_a(f)
+    # with open('input/14/sample', 'rb') as f:
+    #     main_b(f)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
